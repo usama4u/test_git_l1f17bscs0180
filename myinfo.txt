@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bgdddbhdt"Name:Usama" 
+=======
+"Name:Usama" 
+>>>>>>> d87ab7b2ee514df8c8b7500e1182a1fefd6950f0
 Email:usamasohail4u@ucp.edu.pk
 Faculty of Information Technology
